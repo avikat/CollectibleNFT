@@ -1,0 +1,9 @@
+{
+
+    "name" : "Anshul" ,
+    "description":"Cute",
+    "image":"https://ipfs.io/ipfs/QmXB8iyKn6L4agHJLfKLfJmMPEwPexTHio98RDKDEMfxUZ?filename=WhatsApp%20Image%202022-02-20%20at%2011.49.06%20AM.jpeg",
+    "attributes": {"trait_type": "cutness",
+		   "value":"100"
+		  }
+}
